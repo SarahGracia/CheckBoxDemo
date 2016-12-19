@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CheckBoxDemo</string>
+
+
+    <string name="Sunday_Breakfast">Sunday Breakfast</string>
+    <string name="title_message">Select Breakfast</string>
+    <string name="Toast">Toast</string>
+    <string name="Egg">Egg</string>
+    <string name="Fruits">Fruits</string>
+    <string name="done">Done</string>
+    <string name="selected">Selected</string>
+
+</resources>
